@@ -1,0 +1,38 @@
+2020-11-24 07:52:37,199 INFO  commonTestCase.Common_TC_02_Register_Success_Case - Open User Page
+2020-11-24 07:53:16,547 INFO  commonTestCase.Common_TC_02_Register_Success_Case - Register Step 01:Click to 'Register'link 
+2020-11-24 07:53:19,215 INFO  commonTestCase.Common_TC_02_Register_Success_Case - Register Step 02:input to field
+2020-11-24 07:53:29,287 INFO  commonTestCase.Common_TC_02_Register_Success_Case - Register Step 03:Click to 'Register' button
+2020-11-24 07:53:32,013 INFO  commonTestCase.Common_TC_02_Register_Success_Case - Register Step 04: Verify register success
+2020-11-24 07:53:32,157 INFO  commonTestCase.Common_TC_02_Register_Success_Case -  -------------------------- PASSED -------------------------- 
+2020-11-24 07:53:32,266 INFO  commonTestCase.Common_TC_02_Register_Success_Case -  -------------------------- PASSED -------------------------- 
+2020-11-24 07:53:32,352 INFO  commonTestCase.Common_TC_02_Register_Success_Case -  -------------------------- PASSED -------------------------- 
+2020-11-24 07:53:32,352 INFO  commonTestCase.Common_TC_02_Register_Success_Case - Register Step 05: Click 'Logout' button
+2020-11-24 07:53:45,685 INFO  com.Nopcommerce.User.User_TC_07_Order - Open User Page
+2020-11-24 07:54:20,920 INFO  com.Nopcommerce.User.User_TC_07_Order - quantity product on menu link shop cart
+2020-11-24 07:54:20,938 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
+2020-11-24 07:54:22,424 INFO  com.Nopcommerce.User.User_TC_07_Order - quantity product in popup shop cart
+2020-11-24 07:54:22,453 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- FAILED -------------------------- 
+2020-11-24 07:54:22,454 INFO  com.Nopcommerce.User.User_TC_07_Order - verify product info in 
+2020-11-24 07:54:22,489 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- FAILED -------------------------- 
+2020-11-24 07:54:23,539 INFO  com.Nopcommerce.User.User_TC_07_Order - Go to cart
+2020-11-24 07:54:38,275 INFO  com.Nopcommerce.User.User_TC_07_Order - verify Sku pro in shop cart
+2020-11-24 07:54:38,349 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
+2020-11-24 07:54:38,349 INFO  com.Nopcommerce.User.User_TC_07_Order - verify image pro in shop cart
+2020-11-24 07:54:38,380 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
+2020-11-24 07:54:38,380 INFO  com.Nopcommerce.User.User_TC_07_Order - verify pro info in shop cart
+2020-11-24 07:54:38,402 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
+2020-11-24 07:54:38,403 INFO  com.Nopcommerce.User.User_TC_07_Order - verify price pro in shop cart
+2020-11-24 07:54:38,416 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
+2020-11-24 07:54:38,416 INFO  com.Nopcommerce.User.User_TC_07_Order - verify quantity defauls pro in shop cart
+2020-11-24 07:54:38,434 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
+2020-11-24 07:54:40,454 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
+2020-11-24 07:54:40,457 INFO  com.Nopcommerce.User.User_TC_07_Order - remove pro from cart
+2020-11-24 07:54:42,342 INFO  com.Nopcommerce.User.User_TC_07_Order - cart is empty
+2020-11-24 07:54:42,393 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
+2020-11-24 07:54:42,393 INFO  com.Nopcommerce.User.User_TC_07_Order - pro undisplay in cart
+2020-11-24 07:54:47,423 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
+2020-11-24 07:54:47,424 INFO  com.Nopcommerce.User.User_TC_07_Order - popup cart is empty
+2020-11-24 07:54:47,475 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
+2020-11-24 07:54:47,686 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
+2020-11-24 07:54:47,693 INFO  com.Nopcommerce.User.User_TC_07_Order - update quantity cart
+2020-11-24 07:54:54,751 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 

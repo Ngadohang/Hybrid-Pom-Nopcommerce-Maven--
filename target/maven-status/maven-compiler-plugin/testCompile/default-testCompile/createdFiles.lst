@@ -1,0 +1,2 @@
+commonTestCase\Common_TC_01_LoginSuccess.class
+com\Nopcommerce\User\User_TC_01_Register.class
