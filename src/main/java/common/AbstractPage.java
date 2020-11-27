@@ -69,7 +69,6 @@ public class AbstractPage {
 
 	public void cancelAlert(WebDriver driver) {
 		driver.switchTo().alert().dismiss();
-		;
 
 	}
 
@@ -163,7 +162,7 @@ public class AbstractPage {
 		if (driver.toString().toUpperCase().contains("chrome") || driver.toString().toUpperCase().contains("edge")) {
 			sleepInMilisecond(1000);
 		}
-		sleepInMilisecond(1000);
+		sleepInMilisecond(500);
 		getElementByXpath(driver, locator).sendKeys(value);
 	}
 
@@ -282,8 +281,12 @@ public class AbstractPage {
 			for (String Expect : expectedItem) {
 				if (Item.getText().contains(Expect)) {
 					jsExecutor = (JavascriptExecutor) driver;
-					jsExecutor.executeScript("arguments[0].scrollIntoView(true)", Item);
+					if (!Item.isDisplayed()) {
+						jsExecutor.executeScript("arguments[0].scrollIntoView(true)", Item);
+					}
 					explicitWait.until(ExpectedConditions.elementToBeClickable(Item)).click();
+					// explicitWait.until(ExpectedConditions.elementToBeClickable(Item));
+					// jsExecutor.executeScript("arguments[0].click()",Item);
 					if (allItems.size() == expectedItem.length) {
 						break;
 					}
@@ -388,9 +391,10 @@ public class AbstractPage {
 		return getElementByXpath(driver, locator, values).isSelected();
 	}
 
-	public boolean isElementSelectedByJs(WebDriver driver, String csslocator,String...values) {
+	public boolean isElementSelectedByJs(WebDriver driver, String csslocator, String... values) {
 		jsExecutor = (JavascriptExecutor) driver;
-		return (boolean) jsExecutor.executeScript("return document.querySelector(\"" + getDynamicLocator(csslocator, values) + "\").checked");
+		return (boolean) jsExecutor.executeScript(
+				"return document.querySelector(\"" + getDynamicLocator(csslocator, values) + "\").checked");
 	}
 
 	public boolean isElementEnable(WebDriver driver, String locator) {

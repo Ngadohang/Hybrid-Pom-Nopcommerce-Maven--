@@ -184,7 +184,7 @@ public class User_TC_04_Search extends AbstractTest {
 
 	@AfterClass
 	public void afterClass() {
-		// removeDriver();
+		 removeDriver();
 	}
 
 	HomePageObject homePage;

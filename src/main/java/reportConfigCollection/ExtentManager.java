@@ -1,4 +1,4 @@
-package reportConfig;
+package reportConfigCollection;
 
 import com.relevantcodes.extentreports.ExtentReports;
 

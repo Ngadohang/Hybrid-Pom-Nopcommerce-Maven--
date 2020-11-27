@@ -1,5 +1,6 @@
 package commonTestCase;
 
+import java.lang.reflect.Method;
 import java.util.Random;
 
 import org.openqa.selenium.WebDriver;
@@ -10,19 +11,23 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
+import com.relevantcodes.extentreports.LogStatus;
+
 import common.AbstractTest;
 import common.PageManagerObject;
 import commonData.DataJson;
 import pageObject.Nopcommerce.User.HomePageObject;
 import pageObject.Nopcommerce.User.RegisterPageObject;
+import reportConfig.ExtentTestManager;
 
 public class Common_TC_02_Register_Success_Case extends AbstractTest {
 	WebDriver driver;
 	public static String email, password,gender,firsname,lastname,birthday,birthmonth,birthdayear,company;
 	@Parameters({"browser", "url","registerData"})
 	@BeforeTest
-	public void beforeTestCase(String browserName, String url, String registerData) {
-		log.info("Open User Page");
+	public void beforeTestCase(Method method,String browserName, String url, String registerData) {
+		ExtentTestManager.startTest(method.getName(), "TC_Register");
+		ExtentTestManager.getTest().log(LogStatus.INFO, "Register-Step 01: Open 'New Customer' Page");
 		driver= getBrowserDriver(browserName, url);
 		data=DataJson.get(registerData);
 		email = "ngado" + getEmailRandom() + "@gmail.com";
@@ -53,6 +58,7 @@ public class Common_TC_02_Register_Success_Case extends AbstractTest {
 
 		log.info("Register Step 05: Click 'Logout' button");
 		registerPage.clicktoLogoutButton();
+		ExtentTestManager.endTest();
 		
 		removeDriver();
 	}

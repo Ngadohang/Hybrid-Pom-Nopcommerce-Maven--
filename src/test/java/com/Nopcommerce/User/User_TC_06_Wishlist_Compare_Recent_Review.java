@@ -149,7 +149,7 @@ public class User_TC_06_Wishlist_Compare_Recent_Review extends AbstractTest {
 
 	@Test
 	public void TC_05_Recently_View_Products() {
-		
+		removeDriver();
 	}
 
 	@AfterClass

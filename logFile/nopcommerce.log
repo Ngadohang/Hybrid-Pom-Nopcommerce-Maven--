@@ -4352,3 +4352,1021 @@ Session ID: 63847c82-2e55-4bb8-866f-62724f57dcb4
 2020-11-24 07:54:47,686 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
 2020-11-24 07:54:47,693 INFO  com.Nopcommerce.User.User_TC_07_Order - update quantity cart
 2020-11-24 07:54:54,751 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
+2020-11-25 18:51:19,705 INFO  com.Nopcommerce.Admin.Admin - Search with product name
+2020-11-25 18:51:53,668 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, unchecked subcategories
+2020-11-25 18:54:18,508 INFO  com.Nopcommerce.Admin.Admin - Search with product name
+2020-11-25 18:54:22,553 INFO  com.Nopcommerce.Admin.Admin - check info product dislay on table
+2020-11-25 18:54:22,758 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 18:54:22,785 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, unchecked subcategories
+2020-11-25 18:54:57,357 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, checked subcategories
+2020-11-25 18:57:05,536 INFO  com.Nopcommerce.Admin.Admin - Search with product name
+2020-11-25 18:57:10,750 INFO  com.Nopcommerce.Admin.Admin - check info product dislay on table
+2020-11-25 18:57:10,928 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 18:57:10,933 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, unchecked subcategories
+2020-11-25 18:57:16,122 INFO  com.Nopcommerce.Admin.Admin - check uncheck search sub category
+2020-11-25 18:57:16,152 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- FAILED -------------------------- 
+2020-11-25 18:57:17,486 INFO  com.Nopcommerce.Admin.Admin - check no product dislayed
+2020-11-25 18:57:17,661 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 18:57:17,666 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, checked subcategories
+2020-11-25 18:57:36,069 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-25 18:57:36,302 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 18:57:36,305 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, unchecked subcategories
+2020-11-25 18:57:47,146 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-25 18:57:47,319 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 18:57:47,322 INFO  com.Nopcommerce.Admin.Admin - Search with product name, manufacturer
+2020-11-25 18:57:56,581 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-25 18:58:26,717 INFO  com.Nopcommerce.Admin.Admin - Search with product name, manufacturer
+2020-11-25 18:58:58,901 INFO  com.Nopcommerce.Admin.Admin - Search with product name, manufacturer
+2020-11-25 19:01:25,706 INFO  com.Nopcommerce.Admin.Admin - Search with product name
+2020-11-25 19:01:29,981 INFO  com.Nopcommerce.Admin.Admin - check info product dislay on table
+2020-11-25 19:01:30,161 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 19:01:30,169 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, unchecked subcategories
+2020-11-25 19:01:31,694 INFO  com.Nopcommerce.Admin.Admin - check uncheck search sub category
+2020-11-25 19:01:31,712 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- FAILED -------------------------- 
+2020-11-25 19:01:33,026 INFO  com.Nopcommerce.Admin.Admin - check no product dislayed
+2020-11-25 19:01:33,190 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 19:01:33,198 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, checked subcategories
+2020-11-25 19:01:37,071 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-25 19:01:37,272 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 19:01:37,277 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, unchecked subcategories
+2020-11-25 19:02:09,771 INFO  com.Nopcommerce.Admin.Admin - Search with product name, manufacturer
+2020-11-25 19:04:52,119 INFO  com.Nopcommerce.Admin.Admin - Search with product name
+2020-11-25 19:04:56,754 INFO  com.Nopcommerce.Admin.Admin - check info product dislay on table
+2020-11-25 19:04:56,959 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 19:04:56,980 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, unchecked subcategories
+2020-11-25 19:04:59,925 INFO  com.Nopcommerce.Admin.Admin - check no product dislayed
+2020-11-25 19:05:00,230 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 19:05:00,235 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, checked subcategories
+2020-11-25 19:05:04,097 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-25 19:05:04,318 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 19:05:04,320 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, unchecked subcategories
+2020-11-25 19:05:06,899 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-25 19:05:37,082 INFO  com.Nopcommerce.Admin.Admin - Search with product name, manufacturer
+2020-11-25 19:05:39,977 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-25 19:05:40,044 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 19:05:40,047 INFO  com.Nopcommerce.Admin.Admin - Search with product name, manufacturer
+2020-11-25 19:06:10,069 INFO  com.Nopcommerce.Admin.Admin - Search with product name, manufacturer
+2020-11-25 19:09:14,424 INFO  com.Nopcommerce.Admin.Admin - Search with product name
+2020-11-25 19:09:18,518 INFO  com.Nopcommerce.Admin.Admin - check info product dislay on table
+2020-11-25 19:09:18,722 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 19:09:18,727 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, unchecked subcategories
+2020-11-25 19:09:21,567 INFO  com.Nopcommerce.Admin.Admin - check no product dislayed
+2020-11-25 19:09:22,040 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 19:09:22,043 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, checked subcategories
+2020-11-25 19:09:25,847 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-25 19:09:26,059 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 19:09:26,063 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, unchecked subcategories
+2020-11-25 19:09:28,632 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-25 19:09:58,820 INFO  com.Nopcommerce.Admin.Admin - Search with product name, manufacturer
+2020-11-25 19:10:01,627 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-25 19:10:01,704 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 19:10:01,707 INFO  com.Nopcommerce.Admin.Admin - Search with product name, manufacturer
+2020-11-25 19:13:41,857 INFO  com.Nopcommerce.Admin.Admin - Search with product name
+2020-11-25 19:13:46,977 INFO  com.Nopcommerce.Admin.Admin - check info product dislay on table
+2020-11-25 19:14:16,253 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, unchecked subcategories
+2020-11-25 19:14:20,936 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, checked subcategories
+2020-11-25 19:14:20,945 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, unchecked subcategories
+2020-11-25 19:14:20,957 INFO  com.Nopcommerce.Admin.Admin - Search with product name, manufacturer
+2020-11-25 19:14:20,965 INFO  com.Nopcommerce.Admin.Admin - Search with product name, manufacturer
+2020-11-25 19:14:20,973 INFO  com.Nopcommerce.Admin.Admin - Search with product name, manufacturer
+2020-11-25 19:14:59,342 INFO  com.Nopcommerce.Admin.Admin - Search with product name
+2020-11-25 19:15:03,311 INFO  com.Nopcommerce.Admin.Admin - check info product dislay on table
+2020-11-25 19:15:03,509 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 19:15:03,544 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, unchecked subcategories
+2020-11-25 19:15:06,468 INFO  com.Nopcommerce.Admin.Admin - check no product dislayed
+2020-11-25 19:15:06,655 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 19:15:06,658 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, checked subcategories
+2020-11-25 19:15:10,612 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-25 19:15:10,855 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 19:15:10,858 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, unchecked subcategories
+2020-11-25 19:15:14,259 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-25 19:15:14,501 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 19:15:14,505 INFO  com.Nopcommerce.Admin.Admin - Search with product name, manufacturer
+2020-11-25 19:15:17,313 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-25 19:15:47,370 INFO  com.Nopcommerce.Admin.Admin - Search with product name, manufacturer
+2020-11-25 19:15:51,224 INFO  com.Nopcommerce.Admin.Admin - Search with product name, manufacturer
+2020-11-25 19:16:03,774 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-25 19:16:03,887 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 19:20:27,818 INFO  com.Nopcommerce.Admin.Admin - Search with product name
+2020-11-25 19:20:32,374 INFO  com.Nopcommerce.Admin.Admin - check info product dislay on table
+2020-11-25 19:20:32,542 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 19:20:32,557 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, unchecked subcategories
+2020-11-25 19:20:35,456 INFO  com.Nopcommerce.Admin.Admin - check no product dislayed
+2020-11-25 19:20:35,655 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 19:20:35,658 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, checked subcategories
+2020-11-25 19:20:39,558 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-25 19:20:39,775 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 19:20:39,780 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, unchecked subcategories
+2020-11-25 19:20:43,213 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-25 19:20:43,433 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 19:20:43,436 INFO  com.Nopcommerce.Admin.Admin - Search with product name, manufacturer
+2020-11-25 19:20:47,599 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-25 19:21:18,329 INFO  com.Nopcommerce.Admin.Admin - Search with product name, manufacturer
+2020-11-25 19:21:22,156 INFO  com.Nopcommerce.Admin.Admin - Search with product name, manufacturer
+2020-11-25 21:06:16,046 INFO  com.Nopcommerce.Admin.Admin - Search with product name
+2020-11-25 21:06:20,337 INFO  com.Nopcommerce.Admin.Admin - check info product dislay on table
+2020-11-25 21:06:20,524 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 21:06:20,585 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, unchecked subcategories
+2020-11-25 21:06:23,447 INFO  com.Nopcommerce.Admin.Admin - check no product dislayed
+2020-11-25 21:06:23,621 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 21:06:23,624 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, checked subcategories
+2020-11-25 21:06:27,491 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-25 21:06:27,699 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 21:06:27,700 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, unchecked subcategories
+2020-11-25 21:06:31,096 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-25 21:06:31,282 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 21:06:31,284 INFO  com.Nopcommerce.Admin.Admin - Search with product name, manufacturer
+2020-11-25 21:06:35,409 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-25 21:06:35,466 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 21:06:35,468 INFO  com.Nopcommerce.Admin.Admin - Search with product name, manufacturer
+2020-11-25 21:07:09,671 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-25 21:15:21,795 INFO  com.Nopcommerce.Admin.Admin - Search with product name
+2020-11-25 21:15:26,766 INFO  com.Nopcommerce.Admin.Admin - check info product dislay on table
+2020-11-25 21:15:27,018 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 21:15:27,024 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, unchecked subcategories
+2020-11-25 21:15:29,877 INFO  com.Nopcommerce.Admin.Admin - check no product dislayed
+2020-11-25 21:15:30,083 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 21:15:30,085 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, checked subcategories
+2020-11-25 21:15:33,985 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-25 21:15:34,244 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 21:15:34,247 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, unchecked subcategories
+2020-11-25 21:15:37,675 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-25 21:15:37,879 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 21:15:37,882 INFO  com.Nopcommerce.Admin.Admin - Search with product name, manufacturer
+2020-11-25 21:15:42,025 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-25 21:15:42,091 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 21:15:42,094 INFO  com.Nopcommerce.Admin.Admin - Search with product name, manufacturer
+2020-11-25 21:15:46,056 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 21:15:48,077 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 21:15:48,079 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-25 21:22:30,334 INFO  com.Nopcommerce.Admin.Admin - Search with product name
+2020-11-25 21:22:34,587 INFO  com.Nopcommerce.Admin.Admin - check info product dislay on table
+2020-11-25 21:22:35,756 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 21:22:35,806 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, unchecked subcategories
+2020-11-25 21:22:38,683 INFO  com.Nopcommerce.Admin.Admin - check no product dislayed
+2020-11-25 21:22:38,884 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 21:22:38,887 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, checked subcategories
+2020-11-25 21:22:42,831 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-25 21:22:43,072 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 21:22:43,076 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, unchecked subcategories
+2020-11-25 21:22:46,457 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-25 21:22:46,677 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 21:22:46,680 INFO  com.Nopcommerce.Admin.Admin - Search with product name, manufacturer
+2020-11-25 21:22:50,793 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-25 21:22:50,859 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 21:22:50,863 INFO  com.Nopcommerce.Admin.Admin - Search with product name, manufacturer
+2020-11-25 21:22:55,161 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 21:22:57,162 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 21:22:57,164 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-25 21:25:30,675 INFO  com.Nopcommerce.Admin.Admin - Search with product name
+2020-11-25 21:25:37,426 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, unchecked subcategories
+2020-11-25 21:25:37,552 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, checked subcategories
+2020-11-25 21:25:37,557 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, unchecked subcategories
+2020-11-25 21:25:37,563 INFO  com.Nopcommerce.Admin.Admin - Search with product name, manufacturer
+2020-11-25 21:25:37,571 INFO  com.Nopcommerce.Admin.Admin - Search with product name, manufacturer
+2020-11-25 21:25:37,576 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-25 21:26:12,081 INFO  com.Nopcommerce.Admin.Admin - Search with product name
+2020-11-25 21:26:43,441 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, unchecked subcategories
+2020-11-25 21:26:43,446 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, checked subcategories
+2020-11-25 21:26:43,451 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, unchecked subcategories
+2020-11-25 21:26:43,455 INFO  com.Nopcommerce.Admin.Admin - Search with product name, manufacturer
+2020-11-25 21:26:43,459 INFO  com.Nopcommerce.Admin.Admin - Search with product name, manufacturer
+2020-11-25 21:26:43,461 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-25 22:05:25,946 INFO  com.Nopcommerce.Admin.Admin - Search with product name
+2020-11-25 22:05:31,411 INFO  com.Nopcommerce.Admin.Admin - check info product dislay on table
+2020-11-25 22:05:32,486 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 22:05:32,509 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, unchecked subcategories
+2020-11-25 22:05:35,474 INFO  com.Nopcommerce.Admin.Admin - check no product dislayed
+2020-11-25 22:05:35,644 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 22:05:35,649 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, checked subcategories
+2020-11-25 22:05:39,614 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-25 22:05:40,704 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 22:05:40,708 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, unchecked subcategories
+2020-11-25 22:05:44,074 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-25 22:05:44,286 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 22:05:44,289 INFO  com.Nopcommerce.Admin.Admin - Search with product name, manufacturer
+2020-11-25 22:05:48,426 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-25 22:05:48,485 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 22:05:48,488 INFO  com.Nopcommerce.Admin.Admin - Search with product name, manufacturer
+2020-11-25 22:05:53,312 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 22:05:56,976 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 22:05:56,986 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-25 22:08:40,555 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-25 22:13:25,618 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-25 22:13:32,754 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-25 22:13:32,883 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 22:16:15,839 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-25 22:16:22,322 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-25 22:16:22,404 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 22:16:37,311 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-25 22:25:37,343 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-25 22:25:46,411 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-25 22:25:46,559 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 22:26:00,729 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-25 22:52:26,924 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-25 22:52:34,172 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-25 22:52:34,265 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 22:57:14,153 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-25 22:57:21,095 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-25 22:57:21,204 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 23:00:15,229 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-25 23:00:22,343 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-25 23:00:22,469 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-25 23:02:10,796 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-25 23:04:11,521 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 02:03:52,277 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 02:09:55,585 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 02:10:03,077 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 02:10:03,148 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 02:13:39,347 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 02:13:46,629 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 02:13:46,753 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 02:14:38,961 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 02:14:45,347 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 02:14:45,448 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 02:16:09,691 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 02:16:16,742 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 02:16:16,799 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 02:18:15,500 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 02:18:22,443 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 02:18:22,542 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 02:20:13,538 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 02:20:20,084 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 02:20:20,210 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 02:22:06,157 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 02:22:12,615 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 02:22:12,748 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 08:17:23,948 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 08:17:31,695 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 08:17:31,826 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 08:44:42,760 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 08:44:51,187 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 08:44:51,358 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 08:45:06,227 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 08:45:06,389 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 09:01:55,193 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 09:02:01,742 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 09:02:01,856 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 09:03:13,953 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 09:03:20,481 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 09:03:20,592 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 09:06:21,957 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 09:06:28,031 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 09:06:28,142 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 09:08:29,150 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 09:08:35,209 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 09:08:35,334 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 09:29:10,094 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 09:29:17,958 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 09:29:18,105 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 09:38:09,277 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 09:38:15,484 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 09:38:15,575 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 09:40:44,363 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 09:40:50,537 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 09:40:50,656 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 10:03:19,436 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 10:03:25,775 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 10:03:25,896 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 10:06:46,454 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 10:06:52,916 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 10:06:53,024 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 10:07:04,852 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 10:07:04,970 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 10:07:09,422 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed
+2020-11-26 10:10:49,551 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 10:10:56,218 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 10:10:56,270 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 10:11:51,973 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 10:11:58,169 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 10:11:58,282 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 10:13:57,570 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 10:14:04,834 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 10:14:04,922 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 10:19:54,875 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 10:20:00,893 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 10:20:00,950 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 10:20:12,855 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 10:20:12,987 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 10:20:18,375 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed
+2020-11-26 10:23:43,854 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 10:23:50,298 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 10:23:50,413 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 10:24:02,136 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 10:24:02,264 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 10:24:07,166 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed
+2020-11-26 10:32:45,558 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 10:32:52,089 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 10:32:52,201 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 10:33:03,547 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 10:33:03,680 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 10:33:08,417 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed
+2020-11-26 10:33:08,650 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 10:44:16,016 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 10:44:24,980 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 10:44:25,041 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 10:44:37,602 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 10:44:37,726 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 10:44:42,966 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed
+2020-11-26 10:44:45,917 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 10:44:49,147 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 10:44:51,780 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 10:44:56,951 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 10:50:59,834 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 10:51:07,589 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 10:51:07,697 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 10:51:19,007 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 10:51:19,121 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 10:51:24,535 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed
+2020-11-26 10:51:25,022 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 10:51:31,547 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 10:51:31,697 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 10:51:38,591 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 10:51:38,791 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 10:51:45,271 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 10:51:45,440 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 10:51:54,458 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 10:51:54,615 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 10:56:23,662 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 10:56:30,898 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 10:56:31,022 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 10:56:41,926 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 10:56:42,057 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 10:56:46,778 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed
+2020-11-26 10:56:46,980 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 10:56:56,327 INFO  com.Nopcommerce.Admin.Admin - go to edit customer page
+2020-11-26 11:26:24,808 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 11:26:32,718 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 11:26:32,865 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 11:26:45,102 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 11:26:45,225 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 11:26:50,556 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed
+2020-11-26 11:26:50,744 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 11:27:00,598 INFO  com.Nopcommerce.Admin.Admin - go to edit customer page
+2020-11-26 11:27:01,666 INFO  com.Nopcommerce.Admin.Admin - Check title edit product page
+2020-11-26 11:34:06,154 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 11:34:12,306 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 11:34:12,420 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 11:34:23,291 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 11:34:23,417 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 11:34:28,223 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed
+2020-11-26 11:34:28,589 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 11:34:37,758 INFO  com.Nopcommerce.Admin.Admin - go to edit customer page
+2020-11-26 11:34:38,799 INFO  com.Nopcommerce.Admin.Admin - Check title edit product page
+2020-11-26 11:37:35,335 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 11:37:41,752 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 11:37:41,852 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 11:37:53,310 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 11:37:53,435 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 11:37:58,262 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed
+2020-11-26 11:37:58,654 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 11:38:07,926 INFO  com.Nopcommerce.Admin.Admin - go to edit customer page
+2020-11-26 11:38:08,937 INFO  com.Nopcommerce.Admin.Admin - Check title edit product page
+2020-11-26 11:41:15,523 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 11:41:21,408 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 11:41:21,537 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 11:41:32,360 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 11:41:32,488 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 11:41:37,203 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed
+2020-11-26 11:41:37,414 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 11:41:46,422 INFO  com.Nopcommerce.Admin.Admin - go to edit customer page
+2020-11-26 11:41:47,426 INFO  com.Nopcommerce.Admin.Admin - Check title edit product page
+2020-11-26 11:45:21,531 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 11:45:28,182 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 11:45:28,300 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 11:45:39,646 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 11:45:39,782 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 11:45:52,057 INFO  com.Nopcommerce.Admin.Admin - go to edit customer page
+2020-11-26 11:45:53,567 INFO  com.Nopcommerce.Admin.Admin - Check title edit product page
+2020-11-26 11:45:53,656 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 11:46:00,055 INFO  com.Nopcommerce.Admin.Admin - check create update customer success
+2020-11-26 11:46:00,055 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- FAILED -------------------------- 
+2020-11-26 11:46:05,431 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 11:49:43,706 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 11:49:51,317 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 11:49:51,379 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 11:50:04,055 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 11:50:04,206 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 11:50:09,575 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed
+2020-11-26 11:50:09,958 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 11:50:19,597 INFO  com.Nopcommerce.Admin.Admin - go to edit customer page
+2020-11-26 11:50:20,698 INFO  com.Nopcommerce.Admin.Admin - Check title edit product page
+2020-11-26 11:50:20,812 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 11:50:27,123 INFO  com.Nopcommerce.Admin.Admin - check create update customer success
+2020-11-26 11:50:27,124 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- FAILED -------------------------- 
+2020-11-26 11:50:32,790 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 12:01:45,219 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 12:01:53,114 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 12:01:53,230 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 12:02:06,266 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 12:02:06,390 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 12:02:11,757 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed
+2020-11-26 12:02:12,019 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 12:02:23,261 INFO  com.Nopcommerce.Admin.Admin - go to edit customer page
+2020-11-26 12:02:24,231 INFO  com.Nopcommerce.Admin.Admin - Check title edit product page
+2020-11-26 12:02:24,344 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 12:02:30,944 INFO  com.Nopcommerce.Admin.Admin - check create update customer success
+2020-11-26 12:02:31,065 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 12:02:36,623 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 12:02:36,776 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 12:07:48,915 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 12:07:57,111 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 12:07:57,147 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 12:08:08,940 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 12:08:09,065 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 12:08:13,843 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed
+2020-11-26 12:08:14,984 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 12:08:24,117 INFO  com.Nopcommerce.Admin.Admin - go to edit customer page
+2020-11-26 12:08:25,413 INFO  com.Nopcommerce.Admin.Admin - Check title edit product page
+2020-11-26 12:08:25,457 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 12:08:31,580 INFO  com.Nopcommerce.Admin.Admin - check create update customer success
+2020-11-26 12:08:31,699 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 12:08:37,186 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 12:08:37,328 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 12:08:38,220 INFO  com.Nopcommerce.Admin.Admin - Check dislay layout Add new address
+2020-11-26 12:49:32,440 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 12:51:23,178 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 12:51:30,086 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 12:51:30,195 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 12:51:41,207 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 12:51:41,330 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 12:51:46,003 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed
+2020-11-26 12:51:46,212 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 12:51:55,502 INFO  com.Nopcommerce.Admin.Admin - go to edit customer page
+2020-11-26 12:51:57,190 INFO  com.Nopcommerce.Admin.Admin - Check title edit product page
+2020-11-26 12:51:57,310 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 12:52:03,632 INFO  com.Nopcommerce.Admin.Admin - check create update customer success
+2020-11-26 12:52:03,740 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 12:52:09,371 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 12:52:09,518 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 12:52:10,412 INFO  com.Nopcommerce.Admin.Admin - Check dislay layout Add new address
+2020-11-26 12:52:29,030 INFO  com.Nopcommerce.Admin.Admin - Check title New Address Page
+2020-11-26 12:56:48,046 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 12:56:54,311 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 12:56:54,421 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 12:57:05,336 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 12:57:05,598 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 12:57:11,106 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed
+2020-11-26 12:57:11,345 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 12:57:20,748 INFO  com.Nopcommerce.Admin.Admin - go to edit customer page
+2020-11-26 12:57:21,762 INFO  com.Nopcommerce.Admin.Admin - Check title edit product page
+2020-11-26 12:57:21,875 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 12:57:28,201 INFO  com.Nopcommerce.Admin.Admin - check create update customer success
+2020-11-26 12:57:28,340 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 12:57:33,892 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 13:03:04,435 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 13:03:11,778 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 13:03:11,915 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:03:23,349 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 13:03:23,469 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:03:28,246 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed
+2020-11-26 13:03:29,431 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:03:38,327 INFO  com.Nopcommerce.Admin.Admin - go to edit customer page
+2020-11-26 13:03:39,329 INFO  com.Nopcommerce.Admin.Admin - Check title edit product page
+2020-11-26 13:03:39,472 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:03:45,893 INFO  com.Nopcommerce.Admin.Admin - check create update customer success
+2020-11-26 13:03:46,009 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:03:51,522 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 13:03:51,691 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:03:52,604 INFO  com.Nopcommerce.Admin.Admin - Check dislay layout Add new address
+2020-11-26 13:06:10,538 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 13:06:17,123 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 13:06:17,236 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:06:28,466 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 13:06:28,598 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:06:34,204 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed
+2020-11-26 13:06:34,585 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:06:43,777 INFO  com.Nopcommerce.Admin.Admin - go to edit customer page
+2020-11-26 13:06:44,864 INFO  com.Nopcommerce.Admin.Admin - Check title edit product page
+2020-11-26 13:06:44,967 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:06:51,200 INFO  com.Nopcommerce.Admin.Admin - check create update customer success
+2020-11-26 13:06:51,325 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:06:56,839 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 13:06:56,939 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:06:57,800 INFO  com.Nopcommerce.Admin.Admin - Check dislay layout Add new address
+2020-11-26 13:07:14,697 INFO  com.Nopcommerce.Admin.Admin - Check title New Address Page
+2020-11-26 13:14:02,489 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 13:14:08,918 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 13:14:09,034 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:14:19,952 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 13:14:20,134 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:14:24,984 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed
+2020-11-26 13:14:34,561 INFO  com.Nopcommerce.Admin.Admin - go to edit customer page
+2020-11-26 13:19:32,028 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 13:19:38,319 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 13:19:38,490 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:19:49,605 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 13:19:49,723 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:20:32,873 INFO  com.Nopcommerce.Admin.Admin - go to edit customer page
+2020-11-26 13:20:33,935 INFO  com.Nopcommerce.Admin.Admin - Check title edit product page
+2020-11-26 13:20:34,070 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:21:04,829 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 13:21:11,302 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 13:22:52,334 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 13:22:58,687 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 13:22:58,800 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:23:09,603 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 13:23:09,729 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:23:15,072 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed
+2020-11-26 13:23:15,314 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:23:24,323 INFO  com.Nopcommerce.Admin.Admin - go to edit customer page
+2020-11-26 13:23:25,987 INFO  com.Nopcommerce.Admin.Admin - Check title edit product page
+2020-11-26 13:23:26,111 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:23:32,397 INFO  com.Nopcommerce.Admin.Admin - check create update customer success
+2020-11-26 13:23:32,498 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:23:37,961 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 13:23:38,121 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:23:39,017 INFO  com.Nopcommerce.Admin.Admin - Check dislay layout Add new address
+2020-11-26 13:23:42,407 INFO  com.Nopcommerce.Admin.Admin - Check title New Address Page
+2020-11-26 13:27:09,737 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 13:27:16,309 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 13:27:16,403 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:27:27,713 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 13:27:27,844 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:27:32,587 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed
+2020-11-26 13:27:33,744 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:27:45,394 INFO  com.Nopcommerce.Admin.Admin - go to edit customer page
+2020-11-26 13:27:47,004 INFO  com.Nopcommerce.Admin.Admin - Check title edit product page
+2020-11-26 13:27:47,120 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:27:53,426 INFO  com.Nopcommerce.Admin.Admin - check create update customer success
+2020-11-26 13:27:53,548 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:27:59,043 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 13:27:59,194 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:28:00,566 INFO  com.Nopcommerce.Admin.Admin - Check dislay layout Add new address
+2020-11-26 13:28:03,921 INFO  com.Nopcommerce.Admin.Admin - Check title New Address Page
+2020-11-26 13:33:43,875 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 13:33:50,302 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 13:33:50,458 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:34:01,563 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 13:34:01,715 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:34:06,445 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed
+2020-11-26 13:34:06,801 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:34:16,688 INFO  com.Nopcommerce.Admin.Admin - go to edit customer page
+2020-11-26 13:34:17,748 INFO  com.Nopcommerce.Admin.Admin - Check title edit product page
+2020-11-26 13:34:17,881 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:34:24,276 INFO  com.Nopcommerce.Admin.Admin - check create update customer success
+2020-11-26 13:34:24,394 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:34:29,855 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 13:34:29,975 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:34:30,857 INFO  com.Nopcommerce.Admin.Admin - Check dislay layout Add new address
+2020-11-26 13:34:34,122 INFO  com.Nopcommerce.Admin.Admin - Check title New Address Page
+2020-11-26 13:34:46,803 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:34:46,880 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- FAILED -------------------------- 
+2020-11-26 13:39:42,640 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 13:39:48,908 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 13:39:49,038 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:40:00,422 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 13:40:00,538 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:40:05,224 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed
+2020-11-26 13:40:05,456 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:40:14,322 INFO  com.Nopcommerce.Admin.Admin - go to edit customer page
+2020-11-26 13:40:15,339 INFO  com.Nopcommerce.Admin.Admin - Check title edit product page
+2020-11-26 13:40:15,475 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:40:21,562 INFO  com.Nopcommerce.Admin.Admin - check create update customer success
+2020-11-26 13:40:21,661 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:40:27,117 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 13:43:24,238 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 13:43:30,234 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 13:43:30,337 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:43:41,369 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 13:43:41,536 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:43:46,418 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed
+2020-11-26 13:43:46,639 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:43:56,222 INFO  com.Nopcommerce.Admin.Admin - go to edit customer page
+2020-11-26 13:43:57,261 INFO  com.Nopcommerce.Admin.Admin - Check title edit product page
+2020-11-26 13:43:57,388 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:44:03,754 INFO  com.Nopcommerce.Admin.Admin - check create update customer success
+2020-11-26 13:44:03,863 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:44:09,343 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 13:44:09,495 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:44:10,403 INFO  com.Nopcommerce.Admin.Admin - Check dislay layout Add new address
+2020-11-26 13:44:13,657 INFO  com.Nopcommerce.Admin.Admin - Check title New Address Page
+2020-11-26 13:44:26,238 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:44:26,306 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- FAILED -------------------------- 
+2020-11-26 13:58:36,973 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 13:58:50,353 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 13:58:50,471 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:59:01,940 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 13:59:02,056 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:59:06,791 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed
+2020-11-26 13:59:07,237 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:59:21,278 INFO  com.Nopcommerce.Admin.Admin - go to edit customer page
+2020-11-26 13:59:22,401 INFO  com.Nopcommerce.Admin.Admin - Check title edit product page
+2020-11-26 13:59:22,537 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:59:28,765 INFO  com.Nopcommerce.Admin.Admin - check create update customer success
+2020-11-26 13:59:28,869 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:59:34,391 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 13:59:34,556 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:59:35,479 INFO  com.Nopcommerce.Admin.Admin - Check dislay layout Add new address
+2020-11-26 13:59:38,851 INFO  com.Nopcommerce.Admin.Admin - Check title New Address Page
+2020-11-26 13:59:51,510 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 13:59:51,542 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- FAILED -------------------------- 
+2020-11-26 14:02:27,400 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 14:02:40,873 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 14:02:40,963 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:02:52,160 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 14:02:52,288 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:02:57,101 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed
+2020-11-26 14:02:57,498 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:03:11,265 INFO  com.Nopcommerce.Admin.Admin - go to edit customer page
+2020-11-26 14:03:13,707 INFO  com.Nopcommerce.Admin.Admin - Check title edit product page
+2020-11-26 14:03:13,815 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:03:20,197 INFO  com.Nopcommerce.Admin.Admin - check create update customer success
+2020-11-26 14:03:20,313 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:03:26,015 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 14:03:26,707 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:03:27,638 INFO  com.Nopcommerce.Admin.Admin - Check dislay layout Add new address
+2020-11-26 14:03:31,048 INFO  com.Nopcommerce.Admin.Admin - Check title New Address Page
+2020-11-26 14:03:43,964 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:03:43,984 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:13:18,702 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 14:13:24,898 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 14:13:25,013 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:13:35,916 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 14:13:36,053 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:13:40,754 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed
+2020-11-26 14:13:41,171 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:13:50,185 INFO  com.Nopcommerce.Admin.Admin - go to edit customer page
+2020-11-26 14:13:51,344 INFO  com.Nopcommerce.Admin.Admin - Check title edit product page
+2020-11-26 14:13:51,380 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:13:57,684 INFO  com.Nopcommerce.Admin.Admin - check create update customer success
+2020-11-26 14:13:57,797 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:14:03,270 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 14:14:03,431 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:14:04,343 INFO  com.Nopcommerce.Admin.Admin - Check dislay layout Add new address
+2020-11-26 14:14:08,043 INFO  com.Nopcommerce.Admin.Admin - Check title New Address Page
+2020-11-26 14:14:20,547 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:14:20,619 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:18:39,167 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 14:18:46,178 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 14:18:46,315 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:18:56,907 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 14:18:57,020 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:19:01,694 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed
+2020-11-26 14:19:01,902 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:19:10,594 INFO  com.Nopcommerce.Admin.Admin - go to edit customer page
+2020-11-26 14:19:11,603 INFO  com.Nopcommerce.Admin.Admin - Check title edit product page
+2020-11-26 14:19:11,737 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:19:17,891 INFO  com.Nopcommerce.Admin.Admin - check create update customer success
+2020-11-26 14:19:17,988 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:19:23,497 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 14:19:23,642 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:19:24,521 INFO  com.Nopcommerce.Admin.Admin - Check dislay layout Add new address
+2020-11-26 14:19:27,781 INFO  com.Nopcommerce.Admin.Admin - Check title New Address Page
+2020-11-26 14:19:40,130 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:19:40,203 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:23:41,071 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 14:23:47,471 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 14:23:47,567 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:23:58,649 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 14:23:58,782 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:24:04,151 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed
+2020-11-26 14:24:04,506 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:24:13,326 INFO  com.Nopcommerce.Admin.Admin - go to edit customer page
+2020-11-26 14:24:14,319 INFO  com.Nopcommerce.Admin.Admin - Check title edit product page
+2020-11-26 14:24:14,412 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:24:20,746 INFO  com.Nopcommerce.Admin.Admin - check create update customer success
+2020-11-26 14:24:20,850 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:24:26,285 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 14:24:26,432 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:24:27,368 INFO  com.Nopcommerce.Admin.Admin - Check dislay layout Add new address
+2020-11-26 14:24:30,712 INFO  com.Nopcommerce.Admin.Admin - Check title New Address Page
+2020-11-26 14:24:43,280 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:24:43,366 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:30:52,623 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 14:30:58,837 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 14:30:58,942 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:31:10,385 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 14:31:10,505 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:31:15,124 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed
+2020-11-26 14:31:15,343 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:31:24,524 INFO  com.Nopcommerce.Admin.Admin - go to edit customer page
+2020-11-26 14:31:25,505 INFO  com.Nopcommerce.Admin.Admin - Check title edit product page
+2020-11-26 14:31:25,634 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:31:31,904 INFO  com.Nopcommerce.Admin.Admin - check create update customer success
+2020-11-26 14:31:32,018 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:31:37,334 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 14:31:37,490 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:31:38,362 INFO  com.Nopcommerce.Admin.Admin - Check dislay layout Add new address
+2020-11-26 14:31:41,619 INFO  com.Nopcommerce.Admin.Admin - Check title New Address Page
+2020-11-26 14:31:54,222 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:31:54,314 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:41:08,273 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 14:41:14,303 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 14:41:14,428 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:41:25,365 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 14:41:25,509 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:42:21,817 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 14:42:37,048 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 14:42:37,155 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:42:48,142 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 14:42:48,266 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:42:52,983 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed
+2020-11-26 14:42:53,353 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:43:02,407 INFO  com.Nopcommerce.Admin.Admin - go to edit customer page
+2020-11-26 14:43:03,451 INFO  com.Nopcommerce.Admin.Admin - Check title edit product page
+2020-11-26 14:43:03,502 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:43:09,883 INFO  com.Nopcommerce.Admin.Admin - check create update customer success
+2020-11-26 14:43:09,984 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:43:15,587 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 14:43:15,715 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:43:16,621 INFO  com.Nopcommerce.Admin.Admin - Check dislay layout Add new address
+2020-11-26 14:43:19,977 INFO  com.Nopcommerce.Admin.Admin - Check title New Address Page
+2020-11-26 14:43:32,467 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:43:32,530 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:43:56,353 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:43:56,391 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:47:31,370 INFO  com.Nopcommerce.Admin.Admin - Search with product name
+2020-11-26 14:47:34,964 INFO  com.Nopcommerce.Admin.Admin - check info product dislay on table
+2020-11-26 14:47:35,131 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:47:35,138 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, unchecked subcategories
+2020-11-26 14:47:37,513 INFO  com.Nopcommerce.Admin.Admin - check no product dislayed
+2020-11-26 14:47:37,702 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:47:37,706 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, checked subcategories
+2020-11-26 14:47:41,121 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-26 14:47:41,293 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:47:41,296 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, unchecked subcategories
+2020-11-26 14:47:44,221 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-26 14:47:44,371 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:47:44,373 INFO  com.Nopcommerce.Admin.Admin - Search with product name, manufacturer
+2020-11-26 14:47:48,016 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-26 14:47:48,071 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:47:48,074 INFO  com.Nopcommerce.Admin.Admin - Search with product name, manufacturer
+2020-11-26 14:47:51,635 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:47:53,557 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:47:53,560 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 14:47:59,606 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 14:47:59,717 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:48:10,415 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 14:48:10,546 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:48:15,246 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed
+2020-11-26 14:48:15,437 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:48:57,038 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 14:48:57,222 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:49:03,151 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 14:49:03,301 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:49:12,221 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 14:49:12,426 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:49:22,191 INFO  com.Nopcommerce.Admin.Admin - go to edit customer page
+2020-11-26 14:49:24,012 INFO  com.Nopcommerce.Admin.Admin - Check title edit product page
+2020-11-26 14:49:24,165 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:49:30,568 INFO  com.Nopcommerce.Admin.Admin - check create update customer success
+2020-11-26 14:49:30,670 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:49:36,176 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 14:49:36,437 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:49:37,356 INFO  com.Nopcommerce.Admin.Admin - Check dislay layout Add new address
+2020-11-26 14:49:40,669 INFO  com.Nopcommerce.Admin.Admin - Check title New Address Page
+2020-11-26 14:49:53,015 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:49:53,075 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:50:16,651 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:50:16,733 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:54:28,809 INFO  com.Nopcommerce.Admin.Admin - Search with product name
+2020-11-26 14:54:32,310 INFO  com.Nopcommerce.Admin.Admin - check info product dislay on table
+2020-11-26 14:54:32,617 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:54:32,623 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, unchecked subcategories
+2020-11-26 14:54:35,008 INFO  com.Nopcommerce.Admin.Admin - check no product dislayed
+2020-11-26 14:54:35,815 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:54:35,819 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, checked subcategories
+2020-11-26 14:54:39,217 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-26 14:54:39,420 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:54:39,423 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, unchecked subcategories
+2020-11-26 14:54:42,314 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-26 14:54:42,488 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:54:42,491 INFO  com.Nopcommerce.Admin.Admin - Search with product name, manufacturer
+2020-11-26 14:54:46,175 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-26 14:54:46,236 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:54:46,240 INFO  com.Nopcommerce.Admin.Admin - Search with product name, manufacturer
+2020-11-26 14:54:49,619 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:54:51,542 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:54:51,544 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 14:54:57,012 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 14:54:57,118 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:55:07,760 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 14:55:07,880 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:56:53,445 INFO  com.Nopcommerce.Admin.Admin - Search with product name
+2020-11-26 14:56:56,988 INFO  com.Nopcommerce.Admin.Admin - check info product dislay on table
+2020-11-26 14:56:58,234 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:56:58,238 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, unchecked subcategories
+2020-11-26 14:57:00,652 INFO  com.Nopcommerce.Admin.Admin - check no product dislayed
+2020-11-26 14:57:00,846 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:57:00,848 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, checked subcategories
+2020-11-26 14:57:04,268 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-26 14:57:04,452 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:57:04,455 INFO  com.Nopcommerce.Admin.Admin - Search with product name, parent category, unchecked subcategories
+2020-11-26 14:57:07,408 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-26 14:57:07,573 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:57:07,577 INFO  com.Nopcommerce.Admin.Admin - Search with product name, manufacturer
+2020-11-26 14:57:11,215 INFO  com.Nopcommerce.Admin.Admin - check info pro display
+2020-11-26 14:57:11,273 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:57:11,278 INFO  com.Nopcommerce.Admin.Admin - Search with product name, manufacturer
+2020-11-26 14:57:14,695 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:57:16,911 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:57:16,914 INFO  com.Nopcommerce.Admin.Admin - Create New Customer
+2020-11-26 14:57:22,953 INFO  com.Nopcommerce.Admin.Admin - go to add new customer page
+2020-11-26 14:57:23,056 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:57:34,019 INFO  com.Nopcommerce.Admin.Admin - check create new customer success
+2020-11-26 14:57:34,172 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:57:38,945 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed
+2020-11-26 14:57:39,171 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:57:45,567 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 14:57:45,726 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:57:52,658 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 14:57:52,782 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:57:59,195 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 14:57:59,338 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:58:08,536 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 14:58:08,695 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:58:18,935 INFO  com.Nopcommerce.Admin.Admin - go to edit customer page
+2020-11-26 14:58:20,167 INFO  com.Nopcommerce.Admin.Admin - Check title edit product page
+2020-11-26 14:58:20,311 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:58:26,495 INFO  com.Nopcommerce.Admin.Admin - check create update customer success
+2020-11-26 14:58:26,598 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:58:32,015 INFO  com.Nopcommerce.Admin.Admin - New customer is displayed unique
+2020-11-26 14:58:32,196 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:58:33,093 INFO  com.Nopcommerce.Admin.Admin - Check dislay layout Add new address
+2020-11-26 14:58:36,345 INFO  com.Nopcommerce.Admin.Admin - Check title New Address Page
+2020-11-26 14:58:48,964 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:58:49,013 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:59:16,614 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:59:16,633 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 14:59:29,047 INFO  com.Nopcommerce.Admin.Admin -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:08:46,791 INFO  commonTestCase.Common_TC_02_Register_Success_Case - Open User Page
+2020-11-26 15:09:18,108 INFO  commonTestCase.Common_TC_02_Register_Success_Case - Register Step 01:Click to 'Register'link 
+2020-11-26 15:09:31,008 INFO  commonTestCase.Common_TC_02_Register_Success_Case - Register Step 02:input to field
+2020-11-26 15:09:37,965 INFO  commonTestCase.Common_TC_02_Register_Success_Case - Register Step 03:Click to 'Register' button
+2020-11-26 15:09:40,890 INFO  commonTestCase.Common_TC_02_Register_Success_Case - Register Step 04: Verify register success
+2020-11-26 15:09:40,970 INFO  commonTestCase.Common_TC_02_Register_Success_Case -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:09:41,037 INFO  commonTestCase.Common_TC_02_Register_Success_Case -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:09:41,095 INFO  commonTestCase.Common_TC_02_Register_Success_Case -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:09:41,095 INFO  commonTestCase.Common_TC_02_Register_Success_Case - Register Step 05: Click 'Logout' button
+2020-11-26 15:09:58,800 INFO  com.Nopcommerce.User.User_TC_01_Register_with_Fail_Case - Open User Page
+2020-11-26 15:10:11,854 INFO  com.Nopcommerce.User.User_TC_01_Register_with_Fail_Case - Register with EmtyData
+2020-11-26 15:10:13,399 INFO  com.Nopcommerce.User.User_TC_01_Register_with_Fail_Case - Verify display success
+2020-11-26 15:10:13,502 INFO  com.Nopcommerce.User.User_TC_01_Register_with_Fail_Case -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:10:13,567 INFO  com.Nopcommerce.User.User_TC_01_Register_with_Fail_Case -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:10:13,622 INFO  com.Nopcommerce.User.User_TC_01_Register_with_Fail_Case -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:10:13,698 INFO  com.Nopcommerce.User.User_TC_01_Register_with_Fail_Case -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:10:13,763 INFO  com.Nopcommerce.User.User_TC_01_Register_with_Fail_Case -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:10:14,445 INFO  com.Nopcommerce.User.User_TC_01_Register_with_Fail_Case - Register with Invail Email
+2020-11-26 15:10:16,577 INFO  com.Nopcommerce.User.User_TC_01_Register_with_Fail_Case -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:10:17,114 INFO  com.Nopcommerce.User.User_TC_01_Register_with_Fail_Case - Register with exist Email
+2020-11-26 15:10:22,666 INFO  com.Nopcommerce.User.User_TC_01_Register_with_Fail_Case -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:10:23,810 INFO  com.Nopcommerce.User.User_TC_01_Register_with_Fail_Case - Register with invail password
+2020-11-26 15:10:25,937 INFO  com.Nopcommerce.User.User_TC_01_Register_with_Fail_Case -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:10:26,406 INFO  com.Nopcommerce.User.User_TC_01_Register_with_Fail_Case - Register with Password is not match confirmation Password
+2020-11-26 15:10:29,535 INFO  com.Nopcommerce.User.User_TC_01_Register_with_Fail_Case -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:10:29,539 INFO  com.Nopcommerce.User.User_TC_02_Login - Open User Page
+2020-11-26 15:10:51,203 INFO  com.Nopcommerce.User.User_TC_02_Login -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:10:51,203 INFO  com.Nopcommerce.User.User_TC_02_Login - login with empty data
+2020-11-26 15:10:51,857 INFO  com.Nopcommerce.User.User_TC_02_Login -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:10:51,859 INFO  com.Nopcommerce.User.User_TC_02_Login - login with email wrong
+2020-11-26 15:10:53,054 INFO  com.Nopcommerce.User.User_TC_02_Login -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:10:54,059 INFO  com.Nopcommerce.User.User_TC_02_Login -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:10:56,006 INFO  com.Nopcommerce.User.User_TC_02_Login -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:10:57,037 INFO  com.Nopcommerce.User.User_TC_02_Login -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:10:58,606 INFO  com.Nopcommerce.User.User_TC_02_Login -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:10:58,609 INFO  com.Nopcommerce.User.User_TC_02_Login - login with email incorrect
+2020-11-26 15:11:01,091 INFO  com.Nopcommerce.User.User_TC_02_Login -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:11:01,094 INFO  com.Nopcommerce.User.User_TC_02_Login - Login with Email correct and password empty
+2020-11-26 15:11:02,771 INFO  com.Nopcommerce.User.User_TC_02_Login -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:11:02,773 INFO  com.Nopcommerce.User.User_TC_02_Login - Login with email correct and incorrect
+2020-11-26 15:11:36,218 INFO  com.Nopcommerce.User.User_TC_02_Login - Login success with email password
+2020-11-26 15:11:39,056 INFO  com.Nopcommerce.User.User_TC_02_Login -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:11:39,088 INFO  com.Nopcommerce.User.User_TC_02_Login -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:11:47,588 INFO  com.Nopcommerce.User.User_TC_03_My_Account - Open User Page
+2020-11-26 15:12:06,381 INFO  com.Nopcommerce.User.User_TC_03_My_Account - Update Infor Customer
+2020-11-26 15:12:07,149 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:07,166 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:07,182 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:07,280 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:07,364 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:07,805 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:07,820 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:07,837 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:07,839 INFO  com.Nopcommerce.User.User_TC_03_My_Account - add new address
+2020-11-26 15:12:10,521 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:17,220 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:17,249 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:17,275 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:17,304 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:17,333 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:17,360 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:17,386 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:17,413 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:17,447 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:17,449 INFO  com.Nopcommerce.User.User_TC_03_My_Account - Change password
+2020-11-26 15:12:20,292 INFO  com.Nopcommerce.User.User_TC_03_My_Account - log out
+2020-11-26 15:12:20,370 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:21,368 INFO  com.Nopcommerce.User.User_TC_03_My_Account - log in với password cũ
+2020-11-26 15:12:22,778 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:22,779 INFO  com.Nopcommerce.User.User_TC_03_My_Account - log in với password mới
+2020-11-26 15:12:25,316 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:25,351 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:27,613 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- FAILED -------------------------- 
+2020-11-26 15:12:27,643 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- FAILED -------------------------- 
+2020-11-26 15:12:27,645 INFO  com.Nopcommerce.User.User_TC_04_Search - Open User Page
+2020-11-26 15:12:45,148 INFO  com.Nopcommerce.User.User_TC_04_Search - Search with Data emty
+2020-11-26 15:12:47,058 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:49,877 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:51,602 INFO  com.Nopcommerce.User.User_TC_04_Search - Search with data not exist
+2020-11-26 15:12:54,758 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:56,463 INFO  com.Nopcommerce.User.User_TC_04_Search - Search with product name-Relative
+2020-11-26 15:12:59,033 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:59,067 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:59,098 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:59,129 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:13:00,814 INFO  com.Nopcommerce.User.User_TC_04_Search - Search with product name-Absolute
+2020-11-26 15:13:03,335 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:13:03,352 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:13:05,204 INFO  com.Nopcommerce.User.User_TC_04_Search - Search with advanced search with parent categories
+2020-11-26 15:13:08,865 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:13:10,599 INFO  com.Nopcommerce.User.User_TC_04_Search - Search with advanced search with sub categories
+2020-11-26 15:13:15,311 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:13:15,327 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:13:17,085 INFO  com.Nopcommerce.User.User_TC_04_Search - Search with advanced search with incorrect manufacturer
+2020-11-26 15:13:21,130 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:13:22,832 INFO  com.Nopcommerce.User.User_TC_04_Search - Search with advanced search with correct manufacturer
+2020-11-26 15:13:27,065 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:13:27,092 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:13:28,876 INFO  com.Nopcommerce.User.User_TC_04_Search - Search with advanced in price range
+2020-11-26 15:13:34,014 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:13:34,040 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:13:35,725 INFO  com.Nopcommerce.User.User_TC_04_Search - Search with advanced price range lower product price
+2020-11-26 15:13:40,932 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:13:42,109 INFO  com.Nopcommerce.User.User_TC_04_Search - Search with advanced price range higher product price
+2020-11-26 15:13:46,477 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:13:46,478 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading - Open User Page
+2020-11-26 15:14:18,845 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading - Name is sorted by A-Z
+2020-11-26 15:14:18,884 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:14:18,909 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:14:20,171 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:14:20,210 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading - Name is sorted by Z-A
+2020-11-26 15:14:22,053 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:14:22,056 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading - Price is sorted by low to high
+2020-11-26 15:14:23,955 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:14:23,957 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading - Price is sorted by high to low
+2020-11-26 15:14:25,948 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:14:25,951 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading - Display 3 product on page
+2020-11-26 15:14:28,014 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:14:28,042 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:14:29,598 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:14:29,601 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading - Display 6 product on page
+2020-11-26 15:14:30,454 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:14:35,472 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:14:40,493 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:14:40,607 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading - Display 9 product on page
+2020-11-26 15:14:41,679 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:14:46,702 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:14:51,722 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:15:28,619 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review - Open User Page
+2020-11-26 15:16:32,043 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review - Add product to wishlist
+2020-11-26 15:16:32,053 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:16:33,988 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:16:40,701 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:16:43,210 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:16:43,210 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review - Check wish list on menu
+2020-11-26 15:16:43,224 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:16:43,224 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review - check Sku info on wish list
+2020-11-26 15:16:43,253 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:16:43,253 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review - check image info on wish list
+2020-11-26 15:16:43,280 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:16:43,280 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review - check product info on wish list
+2020-11-26 15:16:43,302 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review -  -------------------------- FAILED -------------------------- 
+2020-11-26 15:16:43,302 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review - check price info on wish list
+2020-11-26 15:16:43,316 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:16:46,002 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review -  -------------------------- FAILED -------------------------- 
+2020-11-26 15:16:46,042 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review -  -------------------------- FAILED -------------------------- 
+2020-11-26 15:16:51,729 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review - open cart page success
+2020-11-26 15:16:51,761 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:16:51,761 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review - check add product to shopping cart success
+2020-11-26 15:16:51,776 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review - Remove product in wishlist
+2020-11-26 15:17:29,557 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review - Add product to compare
+2020-11-26 15:17:31,556 INFO  com.Nopcommerce.User.User_TC_07_Order - Open User Page
+2020-11-26 15:18:02,033 INFO  com.Nopcommerce.User.User_TC_07_Order - quantity product on menu link shop cart
+2020-11-26 15:18:02,046 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:18:03,549 INFO  com.Nopcommerce.User.User_TC_07_Order - quantity product in popup shop cart
+2020-11-26 15:18:03,578 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- FAILED -------------------------- 
+2020-11-26 15:18:03,578 INFO  com.Nopcommerce.User.User_TC_07_Order - verify product info in 
+2020-11-26 15:18:03,608 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- FAILED -------------------------- 
+2020-11-26 15:18:03,610 INFO  com.Nopcommerce.User.User_TC_07_Order - Go to cart
+2020-11-26 15:18:17,741 INFO  com.Nopcommerce.User.User_TC_07_Order - verify Sku pro in shop cart
+2020-11-26 15:18:17,806 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:18:17,806 INFO  com.Nopcommerce.User.User_TC_07_Order - verify image pro in shop cart
+2020-11-26 15:18:17,838 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:18:17,838 INFO  com.Nopcommerce.User.User_TC_07_Order - verify pro info in shop cart
+2020-11-26 15:18:17,853 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:18:17,853 INFO  com.Nopcommerce.User.User_TC_07_Order - verify price pro in shop cart
+2020-11-26 15:18:17,864 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:18:17,864 INFO  com.Nopcommerce.User.User_TC_07_Order - verify quantity defauls pro in shop cart
+2020-11-26 15:18:17,878 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:18:19,895 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:18:19,897 INFO  com.Nopcommerce.User.User_TC_07_Order - remove pro from cart
+2020-11-26 15:18:21,812 INFO  com.Nopcommerce.User.User_TC_07_Order - cart is empty
+2020-11-26 15:18:21,873 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:18:21,874 INFO  com.Nopcommerce.User.User_TC_07_Order - pro undisplay in cart
+2020-11-26 15:18:26,891 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:18:26,891 INFO  com.Nopcommerce.User.User_TC_07_Order - popup cart is empty
+2020-11-26 15:18:26,958 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:18:27,143 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:18:27,144 INFO  com.Nopcommerce.User.User_TC_07_Order - update quantity cart
+2020-11-26 15:18:34,450 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 

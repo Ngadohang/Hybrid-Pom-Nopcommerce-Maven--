@@ -1,38 +1,180 @@
-2020-11-24 07:52:37,199 INFO  commonTestCase.Common_TC_02_Register_Success_Case - Open User Page
-2020-11-24 07:53:16,547 INFO  commonTestCase.Common_TC_02_Register_Success_Case - Register Step 01:Click to 'Register'link 
-2020-11-24 07:53:19,215 INFO  commonTestCase.Common_TC_02_Register_Success_Case - Register Step 02:input to field
-2020-11-24 07:53:29,287 INFO  commonTestCase.Common_TC_02_Register_Success_Case - Register Step 03:Click to 'Register' button
-2020-11-24 07:53:32,013 INFO  commonTestCase.Common_TC_02_Register_Success_Case - Register Step 04: Verify register success
-2020-11-24 07:53:32,157 INFO  commonTestCase.Common_TC_02_Register_Success_Case -  -------------------------- PASSED -------------------------- 
-2020-11-24 07:53:32,266 INFO  commonTestCase.Common_TC_02_Register_Success_Case -  -------------------------- PASSED -------------------------- 
-2020-11-24 07:53:32,352 INFO  commonTestCase.Common_TC_02_Register_Success_Case -  -------------------------- PASSED -------------------------- 
-2020-11-24 07:53:32,352 INFO  commonTestCase.Common_TC_02_Register_Success_Case - Register Step 05: Click 'Logout' button
-2020-11-24 07:53:45,685 INFO  com.Nopcommerce.User.User_TC_07_Order - Open User Page
-2020-11-24 07:54:20,920 INFO  com.Nopcommerce.User.User_TC_07_Order - quantity product on menu link shop cart
-2020-11-24 07:54:20,938 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
-2020-11-24 07:54:22,424 INFO  com.Nopcommerce.User.User_TC_07_Order - quantity product in popup shop cart
-2020-11-24 07:54:22,453 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- FAILED -------------------------- 
-2020-11-24 07:54:22,454 INFO  com.Nopcommerce.User.User_TC_07_Order - verify product info in 
-2020-11-24 07:54:22,489 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- FAILED -------------------------- 
-2020-11-24 07:54:23,539 INFO  com.Nopcommerce.User.User_TC_07_Order - Go to cart
-2020-11-24 07:54:38,275 INFO  com.Nopcommerce.User.User_TC_07_Order - verify Sku pro in shop cart
-2020-11-24 07:54:38,349 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
-2020-11-24 07:54:38,349 INFO  com.Nopcommerce.User.User_TC_07_Order - verify image pro in shop cart
-2020-11-24 07:54:38,380 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
-2020-11-24 07:54:38,380 INFO  com.Nopcommerce.User.User_TC_07_Order - verify pro info in shop cart
-2020-11-24 07:54:38,402 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
-2020-11-24 07:54:38,403 INFO  com.Nopcommerce.User.User_TC_07_Order - verify price pro in shop cart
-2020-11-24 07:54:38,416 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
-2020-11-24 07:54:38,416 INFO  com.Nopcommerce.User.User_TC_07_Order - verify quantity defauls pro in shop cart
-2020-11-24 07:54:38,434 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
-2020-11-24 07:54:40,454 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
-2020-11-24 07:54:40,457 INFO  com.Nopcommerce.User.User_TC_07_Order - remove pro from cart
-2020-11-24 07:54:42,342 INFO  com.Nopcommerce.User.User_TC_07_Order - cart is empty
-2020-11-24 07:54:42,393 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
-2020-11-24 07:54:42,393 INFO  com.Nopcommerce.User.User_TC_07_Order - pro undisplay in cart
-2020-11-24 07:54:47,423 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
-2020-11-24 07:54:47,424 INFO  com.Nopcommerce.User.User_TC_07_Order - popup cart is empty
-2020-11-24 07:54:47,475 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
-2020-11-24 07:54:47,686 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
-2020-11-24 07:54:47,693 INFO  com.Nopcommerce.User.User_TC_07_Order - update quantity cart
-2020-11-24 07:54:54,751 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:08:46,791 INFO  commonTestCase.Common_TC_02_Register_Success_Case - Open User Page
+2020-11-26 15:09:18,108 INFO  commonTestCase.Common_TC_02_Register_Success_Case - Register Step 01:Click to 'Register'link 
+2020-11-26 15:09:31,008 INFO  commonTestCase.Common_TC_02_Register_Success_Case - Register Step 02:input to field
+2020-11-26 15:09:37,965 INFO  commonTestCase.Common_TC_02_Register_Success_Case - Register Step 03:Click to 'Register' button
+2020-11-26 15:09:40,890 INFO  commonTestCase.Common_TC_02_Register_Success_Case - Register Step 04: Verify register success
+2020-11-26 15:09:40,970 INFO  commonTestCase.Common_TC_02_Register_Success_Case -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:09:41,037 INFO  commonTestCase.Common_TC_02_Register_Success_Case -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:09:41,095 INFO  commonTestCase.Common_TC_02_Register_Success_Case -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:09:41,095 INFO  commonTestCase.Common_TC_02_Register_Success_Case - Register Step 05: Click 'Logout' button
+2020-11-26 15:09:58,800 INFO  com.Nopcommerce.User.User_TC_01_Register_with_Fail_Case - Open User Page
+2020-11-26 15:10:11,854 INFO  com.Nopcommerce.User.User_TC_01_Register_with_Fail_Case - Register with EmtyData
+2020-11-26 15:10:13,399 INFO  com.Nopcommerce.User.User_TC_01_Register_with_Fail_Case - Verify display success
+2020-11-26 15:10:13,502 INFO  com.Nopcommerce.User.User_TC_01_Register_with_Fail_Case -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:10:13,567 INFO  com.Nopcommerce.User.User_TC_01_Register_with_Fail_Case -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:10:13,622 INFO  com.Nopcommerce.User.User_TC_01_Register_with_Fail_Case -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:10:13,698 INFO  com.Nopcommerce.User.User_TC_01_Register_with_Fail_Case -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:10:13,763 INFO  com.Nopcommerce.User.User_TC_01_Register_with_Fail_Case -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:10:14,445 INFO  com.Nopcommerce.User.User_TC_01_Register_with_Fail_Case - Register with Invail Email
+2020-11-26 15:10:16,577 INFO  com.Nopcommerce.User.User_TC_01_Register_with_Fail_Case -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:10:17,114 INFO  com.Nopcommerce.User.User_TC_01_Register_with_Fail_Case - Register with exist Email
+2020-11-26 15:10:22,666 INFO  com.Nopcommerce.User.User_TC_01_Register_with_Fail_Case -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:10:23,810 INFO  com.Nopcommerce.User.User_TC_01_Register_with_Fail_Case - Register with invail password
+2020-11-26 15:10:25,937 INFO  com.Nopcommerce.User.User_TC_01_Register_with_Fail_Case -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:10:26,406 INFO  com.Nopcommerce.User.User_TC_01_Register_with_Fail_Case - Register with Password is not match confirmation Password
+2020-11-26 15:10:29,535 INFO  com.Nopcommerce.User.User_TC_01_Register_with_Fail_Case -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:10:29,539 INFO  com.Nopcommerce.User.User_TC_02_Login - Open User Page
+2020-11-26 15:10:51,203 INFO  com.Nopcommerce.User.User_TC_02_Login -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:10:51,203 INFO  com.Nopcommerce.User.User_TC_02_Login - login with empty data
+2020-11-26 15:10:51,857 INFO  com.Nopcommerce.User.User_TC_02_Login -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:10:51,859 INFO  com.Nopcommerce.User.User_TC_02_Login - login with email wrong
+2020-11-26 15:10:53,054 INFO  com.Nopcommerce.User.User_TC_02_Login -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:10:54,059 INFO  com.Nopcommerce.User.User_TC_02_Login -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:10:56,006 INFO  com.Nopcommerce.User.User_TC_02_Login -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:10:57,037 INFO  com.Nopcommerce.User.User_TC_02_Login -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:10:58,606 INFO  com.Nopcommerce.User.User_TC_02_Login -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:10:58,609 INFO  com.Nopcommerce.User.User_TC_02_Login - login with email incorrect
+2020-11-26 15:11:01,091 INFO  com.Nopcommerce.User.User_TC_02_Login -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:11:01,094 INFO  com.Nopcommerce.User.User_TC_02_Login - Login with Email correct and password empty
+2020-11-26 15:11:02,771 INFO  com.Nopcommerce.User.User_TC_02_Login -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:11:02,773 INFO  com.Nopcommerce.User.User_TC_02_Login - Login with email correct and incorrect
+2020-11-26 15:11:36,218 INFO  com.Nopcommerce.User.User_TC_02_Login - Login success with email password
+2020-11-26 15:11:39,056 INFO  com.Nopcommerce.User.User_TC_02_Login -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:11:39,088 INFO  com.Nopcommerce.User.User_TC_02_Login -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:11:47,588 INFO  com.Nopcommerce.User.User_TC_03_My_Account - Open User Page
+2020-11-26 15:12:06,381 INFO  com.Nopcommerce.User.User_TC_03_My_Account - Update Infor Customer
+2020-11-26 15:12:07,149 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:07,166 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:07,182 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:07,280 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:07,364 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:07,805 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:07,820 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:07,837 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:07,839 INFO  com.Nopcommerce.User.User_TC_03_My_Account - add new address
+2020-11-26 15:12:10,521 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:17,220 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:17,249 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:17,275 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:17,304 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:17,333 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:17,360 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:17,386 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:17,413 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:17,447 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:17,449 INFO  com.Nopcommerce.User.User_TC_03_My_Account - Change password
+2020-11-26 15:12:20,292 INFO  com.Nopcommerce.User.User_TC_03_My_Account - log out
+2020-11-26 15:12:20,370 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:21,368 INFO  com.Nopcommerce.User.User_TC_03_My_Account - log in với password cũ
+2020-11-26 15:12:22,778 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:22,779 INFO  com.Nopcommerce.User.User_TC_03_My_Account - log in với password mới
+2020-11-26 15:12:25,316 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:25,351 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:27,613 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- FAILED -------------------------- 
+2020-11-26 15:12:27,643 INFO  com.Nopcommerce.User.User_TC_03_My_Account -  -------------------------- FAILED -------------------------- 
+2020-11-26 15:12:27,645 INFO  com.Nopcommerce.User.User_TC_04_Search - Open User Page
+2020-11-26 15:12:45,148 INFO  com.Nopcommerce.User.User_TC_04_Search - Search with Data emty
+2020-11-26 15:12:47,058 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:49,877 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:51,602 INFO  com.Nopcommerce.User.User_TC_04_Search - Search with data not exist
+2020-11-26 15:12:54,758 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:56,463 INFO  com.Nopcommerce.User.User_TC_04_Search - Search with product name-Relative
+2020-11-26 15:12:59,033 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:59,067 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:59,098 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:12:59,129 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:13:00,814 INFO  com.Nopcommerce.User.User_TC_04_Search - Search with product name-Absolute
+2020-11-26 15:13:03,335 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:13:03,352 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:13:05,204 INFO  com.Nopcommerce.User.User_TC_04_Search - Search with advanced search with parent categories
+2020-11-26 15:13:08,865 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:13:10,599 INFO  com.Nopcommerce.User.User_TC_04_Search - Search with advanced search with sub categories
+2020-11-26 15:13:15,311 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:13:15,327 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:13:17,085 INFO  com.Nopcommerce.User.User_TC_04_Search - Search with advanced search with incorrect manufacturer
+2020-11-26 15:13:21,130 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:13:22,832 INFO  com.Nopcommerce.User.User_TC_04_Search - Search with advanced search with correct manufacturer
+2020-11-26 15:13:27,065 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:13:27,092 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:13:28,876 INFO  com.Nopcommerce.User.User_TC_04_Search - Search with advanced in price range
+2020-11-26 15:13:34,014 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:13:34,040 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:13:35,725 INFO  com.Nopcommerce.User.User_TC_04_Search - Search with advanced price range lower product price
+2020-11-26 15:13:40,932 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:13:42,109 INFO  com.Nopcommerce.User.User_TC_04_Search - Search with advanced price range higher product price
+2020-11-26 15:13:46,477 INFO  com.Nopcommerce.User.User_TC_04_Search -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:13:46,478 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading - Open User Page
+2020-11-26 15:14:18,845 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading - Name is sorted by A-Z
+2020-11-26 15:14:18,884 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:14:18,909 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:14:20,171 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:14:20,210 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading - Name is sorted by Z-A
+2020-11-26 15:14:22,053 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:14:22,056 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading - Price is sorted by low to high
+2020-11-26 15:14:23,955 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:14:23,957 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading - Price is sorted by high to low
+2020-11-26 15:14:25,948 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:14:25,951 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading - Display 3 product on page
+2020-11-26 15:14:28,014 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:14:28,042 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:14:29,598 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:14:29,601 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading - Display 6 product on page
+2020-11-26 15:14:30,454 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:14:35,472 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:14:40,493 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:14:40,607 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading - Display 9 product on page
+2020-11-26 15:14:41,679 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:14:46,702 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:14:51,722 INFO  com.Nopcommerce.User.User_TC_05_Sort_Display_Pading -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:15:28,619 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review - Open User Page
+2020-11-26 15:16:32,043 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review - Add product to wishlist
+2020-11-26 15:16:32,053 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:16:33,988 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:16:40,701 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:16:43,210 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:16:43,210 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review - Check wish list on menu
+2020-11-26 15:16:43,224 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:16:43,224 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review - check Sku info on wish list
+2020-11-26 15:16:43,253 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:16:43,253 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review - check image info on wish list
+2020-11-26 15:16:43,280 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:16:43,280 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review - check product info on wish list
+2020-11-26 15:16:43,302 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review -  -------------------------- FAILED -------------------------- 
+2020-11-26 15:16:43,302 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review - check price info on wish list
+2020-11-26 15:16:43,316 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:16:46,002 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review -  -------------------------- FAILED -------------------------- 
+2020-11-26 15:16:46,042 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review -  -------------------------- FAILED -------------------------- 
+2020-11-26 15:16:51,729 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review - open cart page success
+2020-11-26 15:16:51,761 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:16:51,761 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review - check add product to shopping cart success
+2020-11-26 15:16:51,776 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review - Remove product in wishlist
+2020-11-26 15:17:29,557 INFO  com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review - Add product to compare
+2020-11-26 15:17:31,556 INFO  com.Nopcommerce.User.User_TC_07_Order - Open User Page
+2020-11-26 15:18:02,033 INFO  com.Nopcommerce.User.User_TC_07_Order - quantity product on menu link shop cart
+2020-11-26 15:18:02,046 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:18:03,549 INFO  com.Nopcommerce.User.User_TC_07_Order - quantity product in popup shop cart
+2020-11-26 15:18:03,578 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- FAILED -------------------------- 
+2020-11-26 15:18:03,578 INFO  com.Nopcommerce.User.User_TC_07_Order - verify product info in 
+2020-11-26 15:18:03,608 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- FAILED -------------------------- 
+2020-11-26 15:18:03,610 INFO  com.Nopcommerce.User.User_TC_07_Order - Go to cart
+2020-11-26 15:18:17,741 INFO  com.Nopcommerce.User.User_TC_07_Order - verify Sku pro in shop cart
+2020-11-26 15:18:17,806 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:18:17,806 INFO  com.Nopcommerce.User.User_TC_07_Order - verify image pro in shop cart
+2020-11-26 15:18:17,838 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:18:17,838 INFO  com.Nopcommerce.User.User_TC_07_Order - verify pro info in shop cart
+2020-11-26 15:18:17,853 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:18:17,853 INFO  com.Nopcommerce.User.User_TC_07_Order - verify price pro in shop cart
+2020-11-26 15:18:17,864 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:18:17,864 INFO  com.Nopcommerce.User.User_TC_07_Order - verify quantity defauls pro in shop cart
+2020-11-26 15:18:17,878 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:18:19,895 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:18:19,897 INFO  com.Nopcommerce.User.User_TC_07_Order - remove pro from cart
+2020-11-26 15:18:21,812 INFO  com.Nopcommerce.User.User_TC_07_Order - cart is empty
+2020-11-26 15:18:21,873 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:18:21,874 INFO  com.Nopcommerce.User.User_TC_07_Order - pro undisplay in cart
+2020-11-26 15:18:26,891 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:18:26,891 INFO  com.Nopcommerce.User.User_TC_07_Order - popup cart is empty
+2020-11-26 15:18:26,958 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:18:27,143 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 
+2020-11-26 15:18:27,144 INFO  com.Nopcommerce.User.User_TC_07_Order - update quantity cart
+2020-11-26 15:18:34,450 INFO  com.Nopcommerce.User.User_TC_07_Order -  -------------------------- PASSED -------------------------- 

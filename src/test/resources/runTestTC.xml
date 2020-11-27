@@ -5,7 +5,7 @@
 		<listener class-name="common.MethodListener" />
 	    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
 		<listener class-name="org.uncommons.reportng.JUnitXMLReporter"/> 
-<!-- 		<listener class-name="reportConfig.ExtentTestListener"/> -->
+<!-- 		<listener class-name="reportConfig.ExtentTestListener"/>  -->
 <!-- 		<listener class-name="common.ReportNGListener"/> -->
 <!-- 		<listener class-name="retryConfig.RetryListener"/> -->
 	</listeners>
@@ -14,12 +14,12 @@
 		<parameter name="registerData" value=".\src\main\java\commonData\registerSuccess.json" />	
 		<classes>
  			<class name="commonTestCase.Common_TC_02_Register_Success_Case" /> 
-<!-- 			<class name="com.Nopcommerce.User.User_TC_01_Register_with_Fail_Case" />  -->
-<!-- 			<class name="com.Nopcommerce.User.User_TC_02_Login" /> -->
-<!-- 			<class name="com.Nopcommerce.User.User_TC_03_My_Account" /> -->
-<!-- 			<class name="com.Nopcommerce.User.User_TC_04_Search" /> -->
-<!-- 			<class name="com.Nopcommerce.User.User_TC_05_Sort_Display_Pading" /> -->
-<!-- 			<class name="com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review" /> -->
+			<class name="com.Nopcommerce.User.User_TC_01_Register_with_Fail_Case" /> 
+			<class name="com.Nopcommerce.User.User_TC_02_Login" />
+			<class name="com.Nopcommerce.User.User_TC_03_My_Account" />
+			<class name="com.Nopcommerce.User.User_TC_04_Search" />
+			<class name="com.Nopcommerce.User.User_TC_05_Sort_Display_Pading" />
+			<class name="com.Nopcommerce.User.User_TC_06_Wishlist_Compare_Recent_Review" />
 			<class name="com.Nopcommerce.User.User_TC_07_Order" />
 		</classes>
 	</test>

@@ -126,7 +126,6 @@ public class ProductDetailPageObject extends AbstractPage {
 	}
 
 	public boolean isProductInfoDislayedPopup(String... values) {
-		System.out.println(ProductDetailPageUI.PRODUCT_INFO_POPUP);
 		return isElementDisplay(driver, ProductDetailPageUI.PRODUCT_INFO_POPUP, values);
 	}
 

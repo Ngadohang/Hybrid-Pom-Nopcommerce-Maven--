@@ -129,7 +129,7 @@ public class User_TC_03_My_Account extends AbstractTest {
 
 	@AfterClass
 	public void afterClass() {
-		// removeDriver();
+		removeDriver();
 	}
 
 	HomePageObject homePage;

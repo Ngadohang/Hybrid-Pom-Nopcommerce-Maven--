@@ -93,10 +93,11 @@ public class User_TC_01_Register_with_Fail_Case extends AbstractTest {
 		verifyTrue(registerPage.isPasswordNotMatchDisplay());
 
 	}
+	
 
 	@AfterClass
 	public void afterClass() {
-		// driver.quit();
+		removeDriver();
 	}
 
 	HomePageObject homePage;

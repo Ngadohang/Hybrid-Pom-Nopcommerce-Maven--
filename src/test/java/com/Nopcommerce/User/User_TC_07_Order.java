@@ -75,6 +75,7 @@ public class User_TC_07_Order extends AbstractTest {
 		log.info("quantity product in popup shop cart");
 		verifyTrue(productDetailPage.isNoteItemSizeDisplay(String.valueOf(count)));
 		log.info("verify product info in ");
+		
 		verifyTrue(productDetailPage.isProductInfoDislayedPopup(image,title,Processor,RAM,HDD,OS,Software0,Software1,Software2,priceText,String.valueOf(count),total));
 	}
 	
@@ -163,7 +164,7 @@ public class User_TC_07_Order extends AbstractTest {
 
 	@AfterClass
 	public void afterClass() {
-		//removeDriver();
+		removeDriver();
 	}
 
 	HomePageObject homePage;

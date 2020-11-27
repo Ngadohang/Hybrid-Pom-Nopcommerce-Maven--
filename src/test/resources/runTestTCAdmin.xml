@@ -11,10 +11,9 @@
 	</listeners>
 	<test name="Run on FIREFOX UI">
 		<parameter name="browser" value="firefox_ui" />
-		<parameter name="loginData" value=".src\main\java\commonData\registerSuccess.json" />	
+		<parameter name="loginData" value=".\src\main\java\commonData\loginSuccess.json" />	
 		<classes>
-			<class name="com\Nopcommerce\Admin\Admin.java" />
- 			
+			<class name="com.Nopcommerce.Admin.Admin" />
 		</classes>
 	</test>
 </suite> 
